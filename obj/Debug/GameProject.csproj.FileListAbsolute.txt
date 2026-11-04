@@ -1,0 +1,7 @@
+C:\Users\mlaee\source\repos\GameProject\GameProject\bin\Debug\GameProject.exe.config
+C:\Users\mlaee\source\repos\GameProject\GameProject\bin\Debug\GameProject.exe
+C:\Users\mlaee\source\repos\GameProject\GameProject\bin\Debug\GameProject.pdb
+C:\Users\mlaee\source\repos\GameProject\GameProject\obj\Debug\GameProject.csproj.AssemblyReference.cache
+C:\Users\mlaee\source\repos\GameProject\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\mlaee\source\repos\GameProject\GameProject\obj\Debug\GameProject.exe
+C:\Users\mlaee\source\repos\GameProject\GameProject\obj\Debug\GameProject.pdb
